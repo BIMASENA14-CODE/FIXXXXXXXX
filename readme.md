@@ -43,7 +43,7 @@ project/
 │   ├── kualitas_udara_jakarta_2023_bersih.csv
 │   └── integrasi_cuaca_udara_sentimen_2023.csv
 │
-└── main code copy.ipynb
+└── main code.ipynb
 ```
 
 ## Cara Menggunakan
